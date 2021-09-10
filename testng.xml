@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="userId" value="3"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/Tuly/TestPart01RestAssured/src/test/java/DataProviderTest.java">
+        <classes><class name="DataProviderTest"></class></classes>
+        </test></suite>
